@@ -1,4 +1,4 @@
-/******** Made by Jose Rosado And Marcela Coaseau
+/******** Made by Jose Rosado
  *        Date: 9/13/2020
  *        purpose: Generate Random Number and change **/
 //import everything

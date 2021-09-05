@@ -22,7 +22,7 @@ int totalChange = 0, num = 0, quarters = 0, pennies = 0, nickels = 0, dimes = 0,
         totalChange= (int)(Math.random() * (MAX - MIN + 1) + MIN);
        System.out.println("Total Change: " + totalChange);
 
-	//determine the least amount needed for random number
+	//Regulate the least amount needed for random number
 
  halfDollars = totalChange / 50;
         totalChange %= 50;
